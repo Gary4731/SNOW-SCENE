@@ -1,0 +1,20 @@
+﻿  test.c
+e:\vs2017 location\testglut\testglut\test.c(296): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\vs2017 location\testglut\testglut\test.c(298): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\vs2017 location\testglut\testglut\test.c(332): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(333): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(397): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\vs2017 location\testglut\testglut\test.c(398): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(399): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(408): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\vs2017 location\testglut\testglut\test.c(409): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(410): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(436): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(437): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(449): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+e:\vs2017 location\testglut\testglut\test.c(450): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(451): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+e:\vs2017 location\testglut\testglut\test.c(537): warning C4013: 'time' undefined; assuming extern returning int
+  testGLUT.vcxproj -> E:\vs2017 location\testGLUT\Debug\testGLUT.exe
+  E:\vs2017 location\testGLUT\testGLUT\freeglut\bin\freeglut.dll
+  1 File(s) copied
